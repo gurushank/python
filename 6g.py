@@ -1,5 +1,5 @@
-guru=int(input())
-if guru%4==0:
-  print("yes")
+gu=int(input(""))
+if gu%6==0:
+    print("yes")
 else:
-  print("no")
+    print("no")
